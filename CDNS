@@ -80,7 +80,7 @@ http://200.4.96.59:8826/play/a04m/index.m3u8
 http://200.4.96.59:8826/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | ALTERNATIVOS",Studio Universal 
-http://168.205.55.2:8000/play/a026/index.m3u8
+http://200.115.112.44:9219/play/a0c5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="Canais | ALTERNATIVOS",Canal Brasil 
 https://cdn-3.nxplay.com.br/Cinebrasil/index.m3u8
