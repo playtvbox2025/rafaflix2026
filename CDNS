@@ -35,12 +35,11 @@ http://79.127.238.228:14647/
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | ALTERNATIVOS",A&E HD
 http://79.127.238.228:14551/
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | ALTERNATIVOS",USA HD
-http://200.4.96.59:8829/play/a080/index.m3u8
+http://168.205.55.2:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | ALTERNATIVOS",Lifetime HD
-http://200.4.96.59:8829/play/a081/index.m3u8
+https://cdn-3.nxplay.com.br/LIFE_TIME_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | ALTERNATIVOS",Telecine Action HD
 http://45.235.0.78/Telecine_Action/playlist.m3u8
@@ -67,18 +66,38 @@ http://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 http://45.235.0.78/Cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | ALTERNATIVOS",HBO HD 
-http://15.235.50.112:14186/
+
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO MUNDI" tvg-logo="https://imgur.com/2z2kag4.png" group-title="Canais | ALTERNATIVOS",HBO MUNDI HD
 http://200.4.96.59:8826/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | ALTERNATIVOS",HBO Family HD
-http://15.235.50.112:14192/
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | ALTERNATIVOS",HBO Xtreme HD
 http://200.4.96.59:8826/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | ALTERNATIVOS",Studio Universal HD
-http://200.4.96.59:8829/play/a083/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="Canais | ALTERNATIVOS",Canal Brasil HD
+
+#EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | ALTERNATIVOS",Discovery Channel
+https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | ALTERNATIVOS",Discovery Science
+https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | ALTERNATIVOS",Discovery Theater
+https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | ALTERNATIVOS",Discovery World
+https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | ALTERNATIVOS",ID
+https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | ALTERNATIVOS",History
+https://cdn-3.nxplay.com.br/HISTORY_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | ALTERNATIVOS",History 2
+https://cdn-3.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
