@@ -107,5 +107,5 @@ https://cdn-3.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | ALTERNATIVOS",Sony Channel
 https://cdn-3.nxplay.com.br/SONY_CHANNEL/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Canais | FILMES E SERIES",Sony movies
+#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Canais | ALTERNATIVOS",Sony movies
 https://cdn-3.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
