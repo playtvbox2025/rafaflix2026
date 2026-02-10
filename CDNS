@@ -39,7 +39,7 @@ http://79.127.238.228:14551/
 http://168.205.55.2:8000/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | ALTERNATIVOS",Lifetime 
-https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | ALTERNATIVOS",Telecine Action 
 http://45.235.0.78/Telecine_Action/playlist.m3u8
