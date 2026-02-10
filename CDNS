@@ -84,10 +84,10 @@ http://168.205.55.2:8000/play/a026/index.m3u8
 https://cdn-3.nxplay.com.br/Cinebrasil/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | ALTERNATIVOS",Discovery Channel
-https://cdn-3.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+http://200.229.190.189:8002/play/28
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | ALTERNATIVOS",Discovery Science
-https://cdn-3.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+http://200.229.190.189:8002/play/a019
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | ALTERNATIVOS",Discovery Theater
 https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
