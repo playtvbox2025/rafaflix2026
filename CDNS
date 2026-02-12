@@ -174,9 +174,6 @@ https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Desenhos Biblicos 24H" tvg-name="entretendo tv" tvg-logo="https://lh5.googleusercontent.com/proxy/bpxVqPVBhTAhLFCLL2zZhsaFUUUraq9ZEdSqFScHPRwgqfaRh6bCrCs_BaOHRPOWVwaWOPcRCEpXs8_QoI7y65Y3yElRnq1qT-QnvWZNhH5bwAZydQfkUxrW01QerA" group-title="Canais | ALTERNATIVOS",entretendo tv
 https://cdn-3.nxplay.com.br/ENTRETENDO/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | ALTERNATIVOS",CINEMAX
-http://45.235.0.78/Cinemax/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | ALTERNATIVOS",GLOOB 
 http://45.235.0.78/Gloob/playlist.m3u8
 
