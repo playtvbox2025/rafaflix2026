@@ -175,6 +175,8 @@ http://79.127.238.228:14647/
 #EXTINF:-1 tvg-id="Desenhos Biblicos 24H" tvg-name="BORA FILMES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlRlthz4DUrYuLOi7hQwg9hg4gUgGAWLrxg&s" group-title="Canais | ALTERNATIVO",BORA FILMES
 https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Desenhos Biblicos 24H" tvg-name="entretendo tv" tvg-logo="https://lh5.googleusercontent.com/proxy/bpxVqPVBhTAhLFCLL2zZhsaFUUUraq9ZEdSqFScHPRwgqfaRh6bCrCs_BaOHRPOWVwaWOPcRCEpXs8_QoI7y65Y3yElRnq1qT-QnvWZNhH5bwAZydQfkUxrW01QerA" group-title="Canais | ALTERNATIVO",entretendo tv
+https://cdn-3.nxplay.com.br/ENTRETENDO/tracks-v2a1/mono.m3u8
 
 
 
