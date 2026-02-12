@@ -178,6 +178,34 @@ https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Desenhos Biblicos 24H" tvg-name="entretendo tv" tvg-logo="https://lh5.googleusercontent.com/proxy/bpxVqPVBhTAhLFCLL2zZhsaFUUUraq9ZEdSqFScHPRwgqfaRh6bCrCs_BaOHRPOWVwaWOPcRCEpXs8_QoI7y65Y3yElRnq1qT-QnvWZNhH5bwAZydQfkUxrW01QerA" group-title="Canais | ALTERNATIVO",entretendo tv
 https://cdn-3.nxplay.com.br/ENTRETENDO/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | ALTERNATIVO",CINEMAX
+http://45.235.0.78/Cinemax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | ALTERNATIVO",GLOOB 
+http://45.235.0.78/Gloob/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | ALTERNATIVO",GNT
+http://45.235.0.78/GNT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVO",GLOOBINHO 
+http://45.235.0.78/Gloobinho/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | ALTERNATIVO",Multishow
+http://45.235.0.78/Multishow/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | ALTERNATIVO",Premiere Clubes
+http://45.235.0.78/Premiere_Clubes/playlist.m3u8
+
+#EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ALTERNATIVO",SporTV
+http://45.235.0.78/SporTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais |ALTERNATIVOV",SporTV 2 HD
+http://79.127.243.211:14469/
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | ALTERNATIVO",SporTV 3 HD
+http://79.127.243.211:14473/
+
+
 
 
 
