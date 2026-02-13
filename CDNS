@@ -175,7 +175,9 @@ https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 https://cdn-3.nxplay.com.br/ENTRETENDO/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | ALTERNATIVOS",GLOOB 
+http://79.127.243.211:14436
 http://45.235.0.78/Gloob/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | ALTERNATIVOS",GNT
 http://45.235.0.78/GNT/playlist.m3u8
