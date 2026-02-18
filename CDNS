@@ -210,10 +210,11 @@ http://15.235.9.200:14942/
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbaYKtM_UUSUfOTgupIA0ziiZqs1srwFxVlzWpUD9dTboV_Rzx1q9pGkQPnKDT7ffZMI&s" group-title="Canais | ALTERNATIVOS",JOVENS TITAS 24/7
 http://15.235.9.200:14981/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Narcoslogo.jpg" group-title="Canais | ALTERNATIVOS",Narcos 24/7 
+http://15.235.9.200:14973
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDtdmcq4S2Q3U5-v4YvwumapsYmR31N09IvPUAiSdRwRl5M_Hg" group-title="Canais | ALTERNATIVOS",Supernatural 24/7 
+http://15.235.9.200:14022
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
 
 
