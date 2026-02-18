@@ -201,6 +201,20 @@ http://79.127.243.211:14469/
 #EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | ALTERNATIVOS",SporTV 3 HD
 http://79.127.243.211:14473/
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Hyz1of0.png" group-title="Canais | ALTERNATIVOS",SONIC 24/7 
+https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81KqrMNrxqL._AC_UF894,1000_QL80_.jpg" group-title="Canais | ALTERNATIVOS",HE-MAN 24/7 
+http://15.235.9.200:14942/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbaYKtM_UUSUfOTgupIA0ziiZqs1srwFxVlzWpUD9dTboV_Rzx1q9pGkQPnKDT7ffZMI&s" group-title="Canais | ALTERNATIVOS",JOVENS TITAS 24/7
+http://15.235.9.200:14981/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
 
 
 
