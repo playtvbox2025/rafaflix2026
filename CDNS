@@ -8,6 +8,7 @@ http://45.235.0.78/Animal_Planet/playlist.m3u8
 http://45.235.0.78/Combate/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | ALTERNATIVOS",AXN 
+http://79.127.238.228:14433
 http://45.235.0.78/AXN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ALTERNATIVOS",Band Sports 
@@ -52,6 +53,7 @@ http://168.205.55.2:8000/play/a024/index.m3u8
 https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | ALTERNATIVOS",Telecine Action 
+http://46.151.196.223:14326/
 http://45.235.0.78/Telecine_Action/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | ALTERNATIVOS",Telecine Pipoca 
@@ -177,7 +179,6 @@ https://cdn-3.nxplay.com.br/ENTRETENDO/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | ALTERNATIVOS",GLOOB 
 http://79.127.243.211:14436
 http://45.235.0.78/Gloob/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | ALTERNATIVOS",GNT
 http://45.235.0.78/GNT/playlist.m3u8
