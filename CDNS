@@ -80,10 +80,11 @@ http://45.235.0.78/Telecine_Fun/playlist.m3u8
 http://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | ALTERNATIVOS",CINEMAX 
+http://200.4.96.59:8826/play/a04l/index.m3u8
 http://45.235.0.78/Cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | ALTERNATIVOS",HBO  
-
+http://200.4.96.59:8825/play/a04u/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO MUNDI" tvg-logo="https://imgur.com/2z2kag4.png" group-title="Canais | ALTERNATIVOS",HBO MUNDI 
 http://200.4.96.59:8826/play/a04m/index.m3u8
