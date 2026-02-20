@@ -200,6 +200,7 @@ http://79.127.238.228:14157/
 http://45.235.0.78/Premiere_Clubes/playlist.m3u8
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ALTERNATIVOS",SporTV
+http://46.151.196.223:14286/
 http://45.235.0.78/SporTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | ALTERNATIVOS",SporTV 2 HD
