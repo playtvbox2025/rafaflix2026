@@ -113,7 +113,7 @@ https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | ALTERNATIVOS",History
 https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | ALTERNATIVOS",History 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | ALTERNATIVOS",H2
 https://cdn-3.nxplay.com.br/HISTORY_2_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | ALTERNATIVOS",Sony Channel
