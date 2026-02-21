@@ -2,21 +2,16 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | ALTERNATIVOS",Animal Planet 
 http://185.152.67.187:14386/
-http://45.235.0.78/Animal_Planet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | ALTERNATIVOS",Combate 
 http://46.151.196.223:14468/
-http://45.235.0.78/Combate/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | ALTERNATIVOS",AXN 
 https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
-http://45.235.0.78/AXN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ALTERNATIVOS",Band Sports 
-http://45.235.0.78/Band_Sports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | ALTERNATIVOS",BIS
-http://45.235.0.78/BIS/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | ALTERNATIVOS",SPACE 
 http://200.4.96.59:8825/play/a02k/index.m3u8
@@ -59,30 +54,24 @@ http://45.235.0.78/Telecine_Action/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | ALTERNATIVOS",Telecine Pipoca 
 http://168.205.55.2:8000/play/a00m/index.m3u8
-http://45.235.0.78/Telecine_Pipoca/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="Canais | ALTERNATIVOS",Telecine Premium 
 http://168.205.55.2:8000/play/a00i/index.m3u8
-http://45.235.0.78/Telecine_Premium/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | ALTERNATIVOS",Telecine Touch 
 http://168.205.55.2:8000/play/a00k/index.m3u8
-http://45.235.0.78/Telecine_Touch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | ALTERNATIVOS",Telecine Cult
 http://177.52.24.154:8000/play/a031/index.m3u8
-http://45.235.0.78/Telecine_Cult/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | ALTERNATIVOS",Telecine Fun 
 http://168.205.55.2:8000/play/a00l/index.m3u8
-http://45.235.0.78/Telecine_Fun/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | ALTERNATIVOS", AMC 
 http://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | ALTERNATIVOS",CINEMAX 
 http://200.4.96.59:8826/play/a04l/index.m3u8
-http://45.235.0.78/Cinemax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | ALTERNATIVOS",HBO  
 http://200.4.96.59:8825/play/a04u/index.m3u8
@@ -185,24 +174,18 @@ https://cdn-3.nxplay.com.br/ENTRETENDO/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | ALTERNATIVOS",GLOOB 
 http://79.127.243.211:14436
-http://45.235.0.78/Gloob/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | ALTERNATIVOS",GNT
-http://45.235.0.78/GNT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
-http://45.235.0.78/Gloobinho/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | ALTERNATIVOS",Multishow
-http://45.235.0.78/Multishow/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | ALTERNATIVOS",Premiere Clubes
 http://79.127.238.228:14157/
-http://45.235.0.78/Premiere_Clubes/playlist.m3u8
 
 #EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ALTERNATIVOS",SporTV
 http://46.151.196.223:14286/
-http://45.235.0.78/SporTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | ALTERNATIVOS",SporTV 2 HD
 http://79.127.243.211:14469/
