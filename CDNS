@@ -215,7 +215,10 @@ http://15.235.9.200:14973
 http://15.235.9.200:14022
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
 
+#EXTINF:-1 tvg-id="" tvg-name="S" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",Eu a Patroa e as Crianças
+http://15.235.9.200:14908/
 
-
+#EXTINF:-1 tvg-id="" tvg-name="S" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",Escolinha Raimundo
+http://15.235.9.200:14904/
 
 
