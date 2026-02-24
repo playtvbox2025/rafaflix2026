@@ -14,6 +14,7 @@ https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | ALTERNATIVOS",BIS
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE 
+http://168.205.55.2:8000/play/a01d/index.m3u8
 http://200.4.96.59:8825/play/a02k/index.m3u8
 
 #EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | VARIEDADES",GloboPlay Novelas
