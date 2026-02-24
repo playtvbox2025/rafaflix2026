@@ -1,79 +1,79 @@
 #EXTM3U url-tvg="http://epgontvhdbr.com/,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml,http://epgontvhdbr.com"
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | ALTERNATIVOS",Animal Planet 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="Canais | CULTURA",Animal Planet 
 http://185.152.67.187:14386/
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | ALTERNATIVOS",Combate 
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate 
 http://46.151.196.223:14468/
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | ALTERNATIVOS",AXN 
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN 
 https://cdn-3.nxplay.com.br/AXN_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ALTERNATIVOS",Band Sports 
+#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports 
 
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="Canais | ALTERNATIVOS",BIS
 
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | ALTERNATIVOS",SPACE 
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE 
 http://200.4.96.59:8825/play/a02k/index.m3u8
 
-#EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | ALTERNATIVOS",GloboPlay Novelas
+#EXTINF:-1 tvg-id="GloboPlay Novelas" tvg-logo="https://i.imgur.com/FOCEoUz.png" group-title="Canais | VARIEDADES",GloboPlay Novelas
 http://79.127.238.228:14455/
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | ALTERNATIVOS",TNT 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | FILMES E SERIES",TNT 
 https://cdn-3.nxplay.com.br/TNT_TK/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | ALTERNATIVOS",TNT Series 
+#EXTINF:-1 tvg-id="TNT SÉRIES" tvg-name="TNT SÉRIES" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="Canais | FILMES E SERIES",TNT Series 
 https://cdn-3.nxplay.com.br/TNT_SERIES_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://imgur.com/IwpJInV.png" group-title="Canais | ALTERNATIVOS",TCM 
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://imgur.com/IwpJInV.png" group-title="Canais | FILMES E SERIES",TCM 
 
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | ALTERNATIVOS",Warner Channel 
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="Canais | FILMES E SERIES",Warner Channel 
 https://cdn-3.nxplay.com.br/WARNER_CHANNEL/index.m3u8
 http://79.127.238.228:14647/
 
-#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24HS" tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/03/Two-and-a-Half-Men-icon.png" group-title="Canais | ALTERNATIVOS",Dois Homens e Meio 24HS
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24HS" tvg-logo="https://pt.seaicons.com/wp-content/uploads/2016/03/Two-and-a-Half-Men-icon.png" group-title="Canais | FILMES E SERIES",Dois Homens e Meio 24HS
 http://15.235.9.200:14872/
 
-#EXTINF:-1 xui-id="88" tvg-id="115" tvg-name="HGTV FHD" tvg-logo="http://srv3.site:80/images/5d7eba3b1cccc69cda266e43803b44b2.jpg" group-title="Canais | ALTERNATIVOS",HGTV FHD
+#EXTINF:-1 xui-id="88" tvg-id="115" tvg-name="HGTV FHD" tvg-logo="http://srv3.site:80/images/5d7eba3b1cccc69cda266e43803b44b2.jpg" group-title="Canais | CULTURA",HGTV FHD
 https://cdn-3.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | ALTERNATIVOS",A&E 
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://imgur.com/EYAmbe4.png" group-title="Canais | FILMES E SERIES",A&E 
 http://79.127.238.228:14551/
 https://cdn-3.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | ALTERNATIVOS",USA 
+#EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="Canais | FILMES E SERIES",USA 
 http://168.205.55.2:8000/play/a024/index.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | ALTERNATIVOS",Lifetime 
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/lAPINbh.png" group-title="Canais | FILMES E SERIES",Lifetime 
 https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | ALTERNATIVOS",Telecine Action 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action 
 http://46.151.196.223:14326/
 http://45.235.0.78/Telecine_Action/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | ALTERNATIVOS",Telecine Pipoca 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca 
 http://168.205.55.2:8000/play/a00m/index.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="Canais | ALTERNATIVOS",Telecine Premium 
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://i.imgur.com/SGr7sdL.png" group-title="Canais | FILMES E SERIES",Telecine Premium 
 http://168.205.55.2:8000/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | ALTERNATIVOS",Telecine Touch 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch 
 http://168.205.55.2:8000/play/a00k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | ALTERNATIVOS",Telecine Cult
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="Canais | FILMES E SERIES",Telecine Cult
 http://177.52.24.154:8000/play/a031/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | ALTERNATIVOS",Telecine Fun 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="Canais | FILMES E SERIES",Telecine Fun 
 http://168.205.55.2:8000/play/a00l/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | ALTERNATIVOS", AMC 
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES", AMC 
 http://cdn-3.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | ALTERNATIVOS",CINEMAX 
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="Canais | FILMES E SERIES",CINEMAX 
 http://200.4.96.59:8826/play/a04l/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | ALTERNATIVOS",HBO  
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="Canais | FILMES E SERIES",HBO  
 http://79.127.243.211:14668/
 http://200.4.96.59:8825/play/a04u/index.m3u8
 
@@ -81,103 +81,103 @@ http://200.4.96.59:8825/play/a04u/index.m3u8
 http://79.127.243.211:14660/
 http://200.4.96.59:8825/play/a04v/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO MUNDI" tvg-logo="https://imgur.com/2z2kag4.png" group-title="Canais | ALTERNATIVOS",HBO MUNDI 
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO MUNDI" tvg-logo="https://imgur.com/2z2kag4.png" group-title="Canais | FILMES E SERIES",HBO MUNDI 
 http://200.4.96.59:8826/play/a04m/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | ALTERNATIVOS",HBO Family 
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | ALTERNATIVOS",HBO Xtreme 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme 
 http://200.4.96.59:8826/play/a04n/index.m3u8
 
-#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | ALTERNATIVOS",Studio Universal 
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="Canais | ALTERNATIVOS",Canal Brasil 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="Canais | FILMES E SERIES",Canal Brasil 
 https://cdn-3.nxplay.com.br/Cinebrasil/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | ALTERNATIVOS",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="Canais | CULTURA",Discovery Channel
 http://200.229.190.189:8002/play/28
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | ALTERNATIVOS",Discovery Science
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="Canais | CULTURA",Discovery Science
 http://200.229.190.189:8002/play/a019
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | ALTERNATIVOS",Discovery Theater
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="Canais | CULTURA",Discovery Theater
 https://cdn-3.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | ALTERNATIVOS",Discovery World
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="Canais | CULTURA",Discovery World
 https://cdn-3.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
-#EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | ALTERNATIVOS",Discovery ID
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="Canais | CULTURA",Discovery ID
 https://cdn-3.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | ALTERNATIVOS",History
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="Canais | CULTURA",History
 https://cdn-3.nxplay.com.br/HISTORY_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | ALTERNATIVOS",H2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgDKfki.png" group-title="Canais | CULTURA",H2
 https://cdn-3.nxplay.com.br/HISTORY_2_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | ALTERNATIVOS",Sony Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18X62CK.png" group-title="Canais | FILMES E SERIES",Sony Channel
 https://cdn-3.nxplay.com.br/SONY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Canais | ALTERNATIVOS",Sony movies
+#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/sony-movies-logo.png" group-title="Canais | FILMES E SERIES",Sony movies
 https://cdn-3.nxplay.com.br/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRatimbum" tvg-name="TV RA TIM BUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" group-title="Canais | ALTERNATIVOS",TV RA TIM BUM 
+#EXTINF:-1 tvg-id="TVRatimbum" tvg-name="TV RA TIM BUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvratimbum.png" group-title="Canais | INFANTIL",TV RA TIM BUM 
 https://cdn-3.nxplay.com.br/TV_RA_TIM_BUM/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Canais | ALTERNATIVOS",Léo e Lully
+#EXTINF:-1 tvg-id="" tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="Canais | INFANTIL",Léo e Lully
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
 
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | ALTERNATIVOS",DISCOVERY KIDS 
+#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="https://i.imgur.com/WxKCkhL.png" group-title="Canais | INFANTIL",DISCOVERY KIDS 
 https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | ALTERNATIVOS",dum dum  
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/WHmHmUH.png" group-title="Canais | INFANTIL",dum dum  
 https://cdn-3.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | ALTERNATIVOS",Tooncast 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TRu90uI.png" group-title="Canais | INFANTIL",Tooncast 
 https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="FishTV" tvg-name="FISH TV HD" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title=" Canais | ALTERNATIVOS",FISH TV 
+#EXTINF:-1 tvg-id="FishTV" tvg-name="FISH TV HD" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title=" Canais | CULTURA",FISH TV 
 http://cdn-3.nxplay.com.br/FISH_TV_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | ALTERNATIVOS",Film & Arts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | FILMES E SERIESS",Film & Arts
 http://cdn-3.nxplay.com.br/Film_Arts_Brasil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="Canais | ALTERNATIVOS",TLC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="Canais | VARIEDADES",TLC HD
 http://79.127.238.228:14433
 https://cdn-3.nxplay.com.br/TLC_BR_NX/index.m3u8 
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ALTERNATIVOS",ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN
 https://cdn-3.nxplay.com.br/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ALTERNATIVOS",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES",ESPN 2
 https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ALTERNATIVOS",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3
 https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ALTERNATIVOS",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4
 https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ALTERNATIVOS",ESPN 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPORTES",ESPN 5
 https://cdn-3.nxplay.com.br/ESPN_5/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ALTERNATIVOS",ESPN 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPORTES",ESPN 6
 https://cdn-3.nxplay.com.br/ESPN_6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | ALTERNATIVOS",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network
 https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="DREAMWORKS" tvg-logo="https://1000logos.net/wp-content/uploads/2019/05/DreamWorks-Logo.jpg" group-title="Canais | ALTERNATIVOS",DREAMWORKS
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="DREAMWORKS" tvg-logo="https://1000logos.net/wp-content/uploads/2019/05/DreamWorks-Logo.jpg" group-title="Canais | INFANTIL",DREAMWORKS
 https://cdn-3.nxplay.com.br/DREAMWORKS/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Desenhos Biblicos 24H" tvg-name="BORA FILMES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlRlthz4DUrYuLOi7hQwg9hg4gUgGAWLrxg&s" group-title="Canais | ALTERNATIVOS",BORA FILMES
+#EXTINF:-1 tvg-id="Desenhos Biblicos 24H" tvg-name="BORA FILMES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlRlthz4DUrYuLOi7hQwg9hg4gUgGAWLrxg&s" group-title="Canais | FILMES E SERIES",BORA FILMES
 https://cdn-3.nxplay.com.br/BORA_FILMES/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Desenhos Biblicos 24H" tvg-name="entretendo tv" tvg-logo="https://lh5.googleusercontent.com/proxy/bpxVqPVBhTAhLFCLL2zZhsaFUUUraq9ZEdSqFScHPRwgqfaRh6bCrCs_BaOHRPOWVwaWOPcRCEpXs8_QoI7y65Y3yElRnq1qT-QnvWZNhH5bwAZydQfkUxrW01QerA" group-title="Canais | ALTERNATIVOS",entretendo tv
+#EXTINF:-1 tvg-id="Desenhos Biblicos 24H" tvg-name="entretendo tv" tvg-logo="https://lh5.googleusercontent.com/proxy/bpxVqPVBhTAhLFCLL2zZhsaFUUUraq9ZEdSqFScHPRwgqfaRh6bCrCs_BaOHRPOWVwaWOPcRCEpXs8_QoI7y65Y3yElRnq1qT-QnvWZNhH5bwAZydQfkUxrW01QerA" group-title="Canais | FILMES E SERIES",entretendo tv
 https://cdn-3.nxplay.com.br/ENTRETENDO/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | ALTERNATIVOS",GLOOB 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qgyrEps.png" group-title="Canais | INFANTILS",GLOOB 
 http://79.127.243.211:14436
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="Canais | ALTERNATIVOS",GNT
@@ -186,32 +186,32 @@ http://79.127.243.211:14436
 
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="Canais | ALTERNATIVOS",Multishow
 
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | ALTERNATIVOS",Premiere Clubes
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes
 https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
 http://79.127.238.228:14157/
 
-#EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ALTERNATIVOS",SporTV
+#EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV
 http://46.151.196.223:14286/
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | ALTERNATIVOS",SporTV 2 HD
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
 http://79.127.243.211:14469/
 
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | ALTERNATIVOS",SporTV 3 HD
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | ESPORTES",SporTV 3 HD
 http://79.127.243.211:14473/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Hyz1of0.png" group-title="Canais | ALTERNATIVOS",SONIC 24/7 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Hyz1of0.png" group-title="Canais | INFANTIL",SONIC 24/7 
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81KqrMNrxqL._AC_UF894,1000_QL80_.jpg" group-title="Canais | ALTERNATIVOS",HE-MAN 24/7 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81KqrMNrxqL._AC_UF894,1000_QL80_.jpg" group-title="Canais | INFANTIL",HE-MAN 24/7 
 http://15.235.9.200:14942/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbaYKtM_UUSUfOTgupIA0ziiZqs1srwFxVlzWpUD9dTboV_Rzx1q9pGkQPnKDT7ffZMI&s" group-title="Canais | ALTERNATIVOS",JOVENS TITAS 24/7
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMbaYKtM_UUSUfOTgupIA0ziiZqs1srwFxVlzWpUD9dTboV_Rzx1q9pGkQPnKDT7ffZMI&s" group-title="Canais | INFANTIL",JOVENS TITAS 24/7
 http://15.235.9.200:14981/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Narcoslogo.jpg" group-title="Canais | ALTERNATIVOS",Narcos 24/7 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Narcoslogo.jpg" group-title="Canais | FILMES E SERIES",Narcos 24/7 
 http://15.235.9.200:14973
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDtdmcq4S2Q3U5-v4YvwumapsYmR31N09IvPUAiSdRwRl5M_Hg" group-title="Canais | ALTERNATIVOS",Supernatural 24/7 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDtdmcq4S2Q3U5-v4YvwumapsYmR31N09IvPUAiSdRwRl5M_Hg" group-title="Canais | FILMES E SERIES",Supernatural 24/7 
 http://15.235.9.200:14022
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
 
