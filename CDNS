@@ -141,7 +141,7 @@ https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
 #EXTINF:-1 tvg-id="FishTV" tvg-name="FISH TV HD" tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title=" Canais | CULTURA",FISH TV 
 http://cdn-3.nxplay.com.br/FISH_TV_NX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | FILMES E SERIESS",Film & Arts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="Canais | FILMES E SERIES",Film & Arts
 http://cdn-3.nxplay.com.br/Film_Arts_Brasil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="Canais | VARIEDADES",TLC HD
