@@ -239,4 +239,7 @@ http://15.235.9.200:14021
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9a/Big-bang-theory_Temporada_12_poster.jpg/250px-Big-bang-theory_Temporada_12_poster.jpg" group-title="Canais | FILMES E SERIES",Big Bang: A Teoria 24/7 
 http://15.235.9.200:14037
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/17/01/05/16/37/506795.jpg" group-title="Canais | INFANTIL",PicaPau 24/7
+http://15.235.9.200:14995/
+
 
