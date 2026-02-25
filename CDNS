@@ -83,12 +83,14 @@ http://79.127.243.211:14660/
 http://200.4.96.59:8825/play/a04v/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO MUNDI" tvg-logo="https://imgur.com/2z2kag4.png" group-title="Canais | FILMES E SERIES",HBO MUNDI 
+http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/19047/index.m3u8
 http://200.4.96.59:8826/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family 
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme 
+
 http://200.4.96.59:8826/play/a04n/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal 
