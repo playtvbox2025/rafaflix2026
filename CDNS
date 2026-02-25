@@ -205,6 +205,15 @@ http://79.127.243.211:14473/
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Hyz1of0.png" group-title="Canais | INFANTIL",SONIC 24/7 
 https://d1si3n1st4nkgb.cloudfront.net/10000/88876021/hls/master.m3u8?ads.xumo_channelId=88876021
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQyMzQwNzQtZTgxYy00OGY0LTg0MmItZjNkNTk3NjgyYmJjXkEyXkFqcGc@._V1_.jpg" group-title="Canais | INFANTIL",Dragon Ball Z GT 24/7 
+http://15.235.9.200:14881
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg" group-title="Canais | INFANTIL",Dragon Ball Z Super 24/7 
+http://15.235.9.200:14880
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDFjM2MyODktNGIxNy00NjQyLWE0ZmYtNTlkNmRhOThkYTc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Canais | INFANTIL",Dragon Ball z kai 24/7 
+http://15.235.9.200:14879//
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81KqrMNrxqL._AC_UF894,1000_QL80_.jpg" group-title="Canais | INFANTIL",HE-MAN 24/7 
 http://15.235.9.200:14942/
 
@@ -223,5 +232,11 @@ http://15.235.9.200:14908/
 
 #EXTINF:-1 tvg-id="" tvg-name="S" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",Escolinha Raimundo
 http://15.235.9.200:14904/
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU0ZDVjOTItMDNkMy00YTI0LWFjYzItY2M1NjU5NjAzZGViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Canais | FILMES E SERIES",smallville 24/7 
+http://15.235.9.200:14021
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9a/Big-bang-theory_Temporada_12_poster.jpg/250px-Big-bang-theory_Temporada_12_poster.jpg" group-title="Canais | FILMES E SERIES",Big Bang: A Teoria 24/7 
+http://15.235.9.200:14037
 
 
