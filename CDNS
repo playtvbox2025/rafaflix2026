@@ -286,10 +286,10 @@ http://15.235.9.200:14973
 http://15.235.9.200:14022
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sRw3v0a.png" group-title="Canais | ALTERNATIVOS",GLOOBINHO 
 
-#EXTINF:-1 tvg-id="" tvg-name="S" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",Eu a Patroa e as Crianças
+#EXTINF:-1 tvg-id="" tvg-name="S" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",Eu a Patroa e as Crianças 24/7
 http://15.235.9.200:14908/
 
-#EXTINF:-1 tvg-id="" tvg-name="S" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",Escolinha Raimundo
+#EXTINF:-1 tvg-id="" tvg-name="S" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | FILMES E SERIES",Escolinha Raimundo 24/7
 http://15.235.9.200:14904/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU0ZDVjOTItMDNkMy00YTI0LWFjYzItY2M1NjU5NjAzZGViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Canais | FILMES E SERIES",smallville 24/7 
