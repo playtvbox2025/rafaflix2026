@@ -107,6 +107,11 @@ http://189.73.8.73:8000/play/a01y
 #EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="Canais | FILMES E SERIES",HBO+ 
 http://189.73.8.73:8000/play/a01m
 
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop " tvg-logo="http://xplatinmedia.com:8080/images/a2716bfb54cf2bf28a66f98d2076b9a0.png" group-title="Canais | FILMES E SERIES",HBO Pop
+http://64.31.61.46:16207
+
+
+
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal 
 http://189.73.8.73:8000/play/a03a
 
