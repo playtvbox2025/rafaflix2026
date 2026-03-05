@@ -81,7 +81,7 @@ https://cdn-3.nxplay.com.br/LIFE_TIME_TK/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | FILMES E SERIES",Telecine Action 
 http://46.151.196.223:14326/
-http://45.235.0.78/Telecine_Action/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca 
 http://46.151.196.223:14345/
